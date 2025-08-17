@@ -6,7 +6,7 @@ The dataset contains employee and organizational information useful for **superv
 
 **Goal:** Identify insights and key factors driving employee attrition (job quitting).
 
-**Dataset Source:** LINK  
+**Dataset Source:**  https://www.kaggle.com/code/ilarrumbide/classification-models-logistic/data
 
 ---
 
@@ -100,5 +100,4 @@ Gender showed higher attrition among males, but not statistically significant.
 5. **Rethink salary hike policies** as they may not effectively reduce attrition.  
 
 ---
-. 
-- Implement a policy of job rotations after the employee spends around 2 to 7 years in the same role where possible.
+
